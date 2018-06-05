@@ -1,1 +1,1 @@
-OTA for XZ1 Compact
+RR OTA for XZ1 Compact
