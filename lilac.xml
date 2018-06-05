@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <lilac>
-            <Filename>RR-O-v6.0.0-20180605-lilac-Official.zip</Filename>
+            <Filename>RR-O-v6.0.0-20180606-lilac-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
