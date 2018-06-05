@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+    <Official>
         <lilac>
-            <Filename>RR-O-v6.0.0-20180605-lilac-Official</Filename>
+            <Filename>RR-O-v6.0.0-20180605-lilac-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -16,5 +16,5 @@
                 title="Changelog"
                 description="View Changelog">https://www.androidfilehost.com/?fid=746163614322268975</ChangelogUrl>
 	</lilac>
-    </Stable>
+    </Official>
 </SlimOTA>
