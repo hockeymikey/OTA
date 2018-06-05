@@ -2,31 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <lilac>
-            <Filename>RR-N-v5.8.3-20170522-oneplus3-Sultan.zip</Filename>
+            <Filename>RR-O-v6.0.0-20180605-lilac-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=673368273298956737</RomUrl>
-            <OP3FirmwareUrl
-                id="OP3Firmware"
-                title="OP3 Firmware"
-                description="OP3 Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=139137</OP3FirmwareUrl>
-            <OP3TFirmwareUrl
-                id="OP3TFirmware"
-                title="OP3T Firmware"
-                description="OP3T Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=171162</OP3TFirmwareUrl>
-            <BeansGappsUrl
-                id="beans_gapps"
-                title="BeansGApps"
-                description="Download latest BeansGApps">https://www.androidfilehost.com/?w=files&amp;flid=171925</BeansGappsUrl>
+                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=962339331458996494</RomUrl>
+            <XZ1CFirmwareUrl
+                id="XZ1CFirmware"
+                title="XZ1 Compact Firmware"
+                description="XZ1 Compact Firmware Folder">https://www.androidfilehost.com/?w=files&flid=274229</XZ1CFirmwareUrl>
 	    <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://hastebin.com/libobutade.vbs</ChangelogUrl>
-            <OldBuildsUrl
-            	id="Old_builds"
-            	title="Build Folder"
-            	description="Build Download Archive">https://www.androidfilehost.com/?a=show&amp;w=files&amp;flid=182475</OldBuildsUrl>
+                description="View Changelog">https://www.androidfilehost.com/?fid=746163614322268975</ChangelogUrl>
 	</lilac>
     </Stable>
 </SlimOTA>
