@@ -6,11 +6,11 @@
 <RomUrl
 id="rom"
 title="Rom"
-description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=962339331458996494</RomUrl>
+description="Download Latest RR build">https://www.androidfilehost.com/?fid=962339331458996494</RomUrl>
 <RRFolderUrl
-id="XZ1CFirmware"
-title="XZ1CFirmware"
-description="XZ1 Compact Firmware Folder">https://www.androidfilehost.com/?w=files&amp;flid=274229</RRFolderUrl>
+id="RRFolder"
+title="RRFolder"
+description="RR Folder with all builds">https://www.androidfilehost.com/?w=files&amp;flid=274229</RRFolderUrl>
 <ChangelogUrl
 id="changelog"
 title="Changelog"
