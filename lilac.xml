@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <lilac>
-<Filename>RR-O-v6.1.0-20180816-lilac-Release.zip</Filename>
+<Filename>RR-O-v6.1.0-20180823-lilac-Release.zip</Filename>
 <RomUrl
 id="rom"
 title="Rom"
-description="Download Latest RR build">https://www.androidfilehost.com/?fid=1322778262903980916</RomUrl>
+description="Download Latest RR build">https://www.androidfilehost.com/?fid=1322778262903988675</RomUrl>
 <RRFolderUrl
 id="RRFolder"
 title="RRFolder"
@@ -14,7 +14,7 @@ description="RR Folder with all builds">https://www.androidfilehost.com/?w=files
 <ChangelogUrl
 id="changelog"
 title="Changelog"
-description="View Changelog">http://pasted.co/3a19d48b</ChangelogUrl>
+description="View Changelog">http://pasted.co/eacb2aec</ChangelogUrl>
 </lilac>
 </Stable>
 </SlimOTA>
