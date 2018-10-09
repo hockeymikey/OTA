@@ -2,23 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <lilac>
-<Filename>RR-O-v6.2.0-20180915-lilac-Release.zip</Filename>
+<Filename>RR-O-v6.2.1-20181009-lilac-Release.zip</Filename>
 <RomUrl
 id="rom"
 title="Rom"
-description="Download Latest RR build">https://www.androidfilehost.com/?fid=1322778262904006437</RomUrl>
+description="Download Latest RR build">https://drive.google.com/uc?id=1uDDNLJLr5ZRwsoVAA17EStzRRM5P4dsk</RomUrl>
 <BootUrl
 id="Boot"
 title="Boot.img"
-description="For encrypted phone use this boot.img">https://www.androidfilehost.com/?fid=1322778262904006442</BootUrl>
+description="For encrypted phone use this boot.img">https://drive.google.com/uc?id=1DdSnGfzzxaCf1RpMD3idMIJbp9_zgBy9</BootUrl>
 <RRFolderUrl
 id="RRFolder"
 title="RRFolder"
-description="RR Folder with all builds">https://www.androidfilehost.com/?w=files&amp;flid=274229</RRFolderUrl>
+description="RR Folder with all builds">https://drive.google.com/open?id=19duAl0mToiHepHZtWLaCFHDVlg9DngYX</RRFolderUrl>
 <ChangelogUrl
 id="changelog"
 title="Changelog"
-description="View Changelog">http://pasted.co/c609b96d</ChangelogUrl>
+description="View Changelog">http://pasted.co/d6b1c361</ChangelogUrl>
 </lilac>
 </Stable>
 </SlimOTA>
