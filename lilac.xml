@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <lilac>
-<Filename>RR-O-v6.2.1-20181009-lilac-Release.zip</Filename>
+<Filename>RR-O-v6.2.1-20181108-lilac-Unofficial.zip</Filename>
 <RomUrl
 id="rom"
 title="Rom"
-description="Download Latest RR build">https://drive.google.com/uc?id=1uDDNLJLr5ZRwsoVAA17EStzRRM5P4dsk</RomUrl>
+description="Download Latest RR build">https://drive.google.com/uc?id=1bIJAgj2EmRstlvEuxYLo7Sy-xYzD3eYz</RomUrl>
 <BootUrl
 id="Boot"
 title="Boot.img"
-description="For encrypted phone use this boot.img">https://drive.google.com/uc?id=1DdSnGfzzxaCf1RpMD3idMIJbp9_zgBy9</BootUrl>
+description="For encrypted phone use this boot.img">https://drive.google.com/uc?id=1dvTKYfTmpdIjqWGD7Y_JhnHUaawHiops</BootUrl>
 <RRFolderUrl
 id="RRFolder"
 title="RRFolder"
@@ -18,7 +18,7 @@ description="RR Folder with all builds">https://drive.google.com/open?id=19duAl0
 <ChangelogUrl
 id="changelog"
 title="Changelog"
-description="View Changelog">http://pasted.co/d6b1c361</ChangelogUrl>
+description="View Changelog">http://pasted.co/a1f8e701</ChangelogUrl>
 </lilac>
 </Stable>
 </SlimOTA>
